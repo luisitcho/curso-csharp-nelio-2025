@@ -1,9 +1,4 @@
-﻿// Tipos do C#
-
-using System;
-using System.Collections.Generic;
-
-class Program {
+﻿class Program {
     static void Main() {
         bool completo = false;
         char genero = 'F';
