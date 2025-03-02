@@ -59,5 +59,34 @@ class Program {
         Console.WriteLine("Medida com oito casas decimais: {0:F8}", medida);
         Console.WriteLine("Arredondado (três casas decimais): {0:F3}", medida);
         Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("F3", CultureInfo.InvariantCulture));
+
+
+
+        //double a;
+        //float b;
+
+        //a = 5.1;
+        //b = (float)a;
+
+        //Console.WriteLine(b);
+
+
+        //double a;
+        //int b;
+
+        //a = 5.1;
+        //b = (int)a;
+
+        //Console.WriteLine(b);
+
+
+        int a = 5;
+        int b = 2;
+
+        double resultado = (double)a / b;
+
+        Console.WriteLine(resultado);
+
+
     }
-} 
+}
