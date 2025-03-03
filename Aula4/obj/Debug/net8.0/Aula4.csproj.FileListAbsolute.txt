@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\bin\Debug\net8.0\Aula4.exe
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\bin\Debug\net8.0\Aula4.deps.json
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\bin\Debug\net8.0\Aula4.runtimeconfig.json
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\bin\Debug\net8.0\Aula4.dll
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\bin\Debug\net8.0\Aula4.pdb
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.sourcelink.json
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.dll
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\refint\Aula4.dll
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.pdb
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\Aula4.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\CSharp\curso-csharp-nelio-2025\Aula4\obj\Debug\net8.0\ref\Aula4.dll
