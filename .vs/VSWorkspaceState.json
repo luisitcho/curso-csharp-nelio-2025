@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Aula1",
-    "\\Aula1\\Aula1"
+    "\\Aula2",
+    "\\Aula2\\Aula2"
   ],
-  "SelectedNode": "\\Aula1\\Aula1\\Program.cs",
+  "SelectedNode": "\\curso-csharp.csproj",
   "PreviewInSolutionExplorer": false
 }
