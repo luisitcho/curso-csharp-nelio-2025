@@ -88,5 +88,28 @@ class Program {
         Console.WriteLine(resultado);
 
 
+        if (b % 2 == 0) {
+            Console.WriteLine("Par");
+        } else {
+            Console.WriteLine("Impar");
+        }
+
+
+        int n1_1 = 3 + 4 * 2;
+        int n2_2 = (3 + 4) * 2;
+        int n3_3 = 17 % 3;
+        double n4_4 = 10.0 / 8.0;
+        double a_a = 1.0, b_b = -3.0, c_c = -4.0;
+        double delta = Math.Pow(b_b, 2.0) - 4.0 * a_a * c_c;
+        double x1 = (-b_b + Math.Sqrt(delta)) / (2.0 * a_a);
+        double x2 = (-b_b - Math.Sqrt(delta)) / (2.0 * a_a);
+
+        Console.WriteLine(n1_1);
+        Console.WriteLine(n2_2);
+        Console.WriteLine(n3_3);
+        Console.WriteLine(n4_4);
+        Console.WriteLine(delta);
+        Console.WriteLine(x1);
+        Console.WriteLine(x2);
     }
 }
