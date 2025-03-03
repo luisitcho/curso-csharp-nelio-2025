@@ -8,15 +8,16 @@ class Program {
         //string y = Console.ReadLine();
         //string z = Console.ReadLine();
       
-        string[] v = Console.ReadLine().Split(' ');
-        string a = v[0];
-        string b = v[1];
-        string c = v[2];
-
         //Console.WriteLine($"Você digitou na frase: {frase}");
         //Console.WriteLine($"Você digitou no X: {x}");
         //Console.WriteLine($"Você digitou no Y: {y}");
         //Console.WriteLine($"Você digitou no Z: {z}");
+
+        
+        string[] v = Console.ReadLine().Split(' ');
+        string a = v[0];
+        string b = v[1];
+        string c = v[2];
 
         Console.WriteLine($"Você digitou no A: {a}");
         Console.WriteLine($"Você digitou no B: {b}");
