@@ -1,11 +1,9 @@
-﻿
-using Aula7;
+﻿using Aula7;
 using System;
 using System.Globalization;
 
 class Program {
     static void Main() {
-
 
         // Código sem orientação a objetos
         double xA, xB, xC, yA, yB, yC;
@@ -52,19 +50,27 @@ class Program {
         y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        double p = (x.A + x.B + x.C) / 2.0;
-        double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+        double areaX2 = x.CalcularArea();
+        double areaY2 = y.CalcularArea();
 
-        p = (y.A + y.B + y.C) / 2.0;
-        double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+        Console.WriteLine("Área de X = " + areaX2.ToString("F4", CultureInfo.InvariantCulture));
+        Console.WriteLine("Área de Y = " + areaY2.ToString("F4", CultureInfo.InvariantCulture));
 
-        Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
-        Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
-
-        if (areaX > areaY) {
+        if (areaX2 > areaY2) {
             Console.WriteLine("Maior área: X");
         } else {
             Console.WriteLine("Maior área: Y");
         }
+    }
+}
+
+class Triangulo {
+    public double A { get; set; }
+    public double B { get; set; }
+    public double C { get; set; }
+
+    public double CalcularArea() {
+        double p = (A + B + C) / 2.0;
+        return Math.Sqrt(p * (p - A) * (p - B) * (p - C));
     }
 }
